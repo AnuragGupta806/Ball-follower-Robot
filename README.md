@@ -8,7 +8,7 @@ Team Members:Anurag Gupta
             
 A simple bot that can track a ball in three dimensions, using a 2D video input and then follow it. No machine learning involved.
 
-Features
+Features:-
 This bot uses pure computer vision concepts. Compared to conventional ML models, it:
 
 1.Has a higher FPS.

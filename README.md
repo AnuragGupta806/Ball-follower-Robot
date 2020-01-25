@@ -1,11 +1,6 @@
 # Ball-follower-Robot
 This project was assigned to me by the Robotics Club of MNNIT,Allahabad.
-Team Members:Anurag Gupta
-             Rushikesh Wath
-             Ishita Mishra
-             Moulik Razdan
-             Pradyumn Bhatter
-            
+
 A simple bot that can track a ball in three dimensions, using a 2D video input and then follow it. No machine learning involved.
 
 Features:-
